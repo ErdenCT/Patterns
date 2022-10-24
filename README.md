@@ -5,11 +5,11 @@ Assignment 1 (Our first assignment for Ineuron Java Full-Stack Developer Course)
 
 1. I wrote a program with the name Ineuron to print INEURON using pattern programming logic.
 
-2. I wrote a program named LoopStudy to print:
-1 1 1 1
-2 2 2 2
-3 3 3 3
-4 4 4 4
+2. I wrote a program named LoopStudy to print: /n
+1 1 1 1 /n
+2 2 2 2 /n
+3 3 3 3 /n
+4 4 4 4 /n
 
 I wrote a program named FullPatterns to print:
 3. pattern1
