@@ -1,6 +1,6 @@
 # Ineuron
 
-Assignment 1
+Assignments
 
 # Assignment 1 (Our first assignment for Ineuron Java Full-Stack Developer Course) </br>
 </br>
