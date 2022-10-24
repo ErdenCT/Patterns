@@ -412,7 +412,31 @@ public class Patterns {
 
 	public static void main(String[] args) {
 		Patterns word = new Patterns();
+		word.letterA();
+		word.letterB();
+		word.letterC();
+		word.letterD();
+		word.letterE();
+		word.letterF();
+		word.letterG();
+		word.letterH();
+		word.letterI();
+		word.letterJ();
+		word.letterK();
+		word.letterL();
+		word.letterM();
+		word.letterN();
+		word.letterO();
+		word.letterP();
 		word.letterQ();
+		word.letterR();
+		word.letterS();
+		word.letterT();
+		word.letterU();
+		word.letterW();
+		word.letterX();
+		word.letterY();
+		word.letterZ();
 		
 		
 
