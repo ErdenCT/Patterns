@@ -19,4 +19,5 @@ I wrote a program named FullPatterns to print:</br>
 --> I defined each pattern under a different method.</br>
 </br>
 I also wrote the Patterns program to print all of the alphabet letters. I defined each letter under a different method.</br>
+<img src="https://github.com/ErdenCT/Ineuron/blob/main/2022-10-26.png?raw=true" />
 
