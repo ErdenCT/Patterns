@@ -19,4 +19,4 @@ I wrote a program named FullPatterns to print:</br>
 --> I defined each pattern under a different method.</br>
 </br>
 I also wrote the Patterns program to print all of the alphabet letters. I defined each letter under a different method.</br>
-![2022-10-26](https://user-images.githubusercontent.com/115568121/198143645-4e2636d8-9843-4e50-b533-60b8d0208a20.png)
+<img src="C:\Users\cterd\OneDrive\Resimler\Screenshots\Ineuron\2022-10-26.png" />
