@@ -37,17 +37,15 @@ public class Jagged3D {
 			for(int j=0; j<array[i].length; j++) {
 				for(int k=0; k<array[i][j].length; k++) {
 					System.out.println(array[i][j][k]);
-					System.out.println();
-					System.out.println("Total Number Of Students:"+numberOfStudents);
-					
-					
 
 					
 				}
-
 				
 			}
+			
 		}
+		System.out.println();
+		System.out.println("Total Number Of Students:"+numberOfStudents);
 		
 		scan.close();
 		
