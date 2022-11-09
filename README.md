@@ -1,8 +1,8 @@
 # Ineuron
 
-Assignments
+Assignment 1 (Our first assignment for Ineuron Java Full-Stack Developer Course)
 
-# Assignment 1 (Our first assignment for Ineuron Java Full-Stack Developer Course) </br>
+# Patterns </br>
 </br>
 1. I wrote a program with the name Ineuron to print INEURON using pattern programming logic. </br>
 <img src="https://github.com/ErdenCT/Ineuron/blob/main/2022-10-26.png?raw=true" />
